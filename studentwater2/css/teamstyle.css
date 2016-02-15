@@ -1,0 +1,16 @@
+﻿body {
+}
+
+.tmembers .row h2{
+text-align:center;
+font-family:"Lato",Helvetica,Arial,sans-serif;
+font-weight:bold;
+
+}
+
+.tmembers .row p{
+    font-weight:bold;
+    text-align:center;
+    font-family:"Lato",Helvetica,Arial,sans-serif;
+    font-size:medium;
+}
